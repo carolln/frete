@@ -1,0 +1,5 @@
+package sistemadefrete;
+
+public interface Fretavel {
+
+}
